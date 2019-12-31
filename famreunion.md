@@ -3,7 +3,7 @@ layout: page
 title: Family Reunion
 ---
 
-If you're a musician in the city, you get to know a lot of other musicians. Everyone runs into each other at jams, comes to each other's shows, shares each other's new releases when they come out. The community is enormous, and it's held together by love and support - everyone is just *so excited* to see each other succeed.
+If you're a musician in Chicago, you get to know a lot of other musicians. Everyone runs into each other at jams, comes to each other's shows, shares each other's new releases when they come out. The community is enormous, and it's held together by love and support - everyone is just *so excited* to see each other succeed.
 
 At the same time, while it's easy to meet people, it can be harder to play music with them. The nitty-gritty of putting together a band - booking shows, promoting them, recording music - all takes a huge amount of work and commitment. My friends and I always felt that there were so many talented musicians who we knew and admired, but with whom we didn't ever have the chance to collaborate because everyone had so little time.
 
@@ -26,6 +26,7 @@ Becca Baruc made an incredible poster for the event, for which she literally ***
 ![poster](https://i.ibb.co/grf33pj/familyreunion2.png){:class="img-responsive"}
 ![crowd_jacob](https://i.ibb.co/Pwwy2yg/crowd-jacob.jpg){:class="img-responsive"}
 ![bindu](https://i.ibb.co/Fsg1CKq/bindu-cute.jpg){:class="img-responsive"}
+![hornrehearsal](https://i.ibb.co/Qd59pYp/horn-rehearsal.jpg){:class="img-responsive"}
 ![rene](https://i.ibb.co/1R7LCN7/RENO.jpg){:class="img-responsive"}
 ![crowd_xander](https://i.ibb.co/5njKDmm/crowd-xander.jpg){:class="img-responsive"}
 ![fullteam](https://i.ibb.co/HCCJPPP/team.jpg){:class="img-responsive"}
