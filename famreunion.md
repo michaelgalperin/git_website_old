@@ -23,4 +23,9 @@ The musicians were:
 
 Becca Baruc made an incredible poster for the event, for which she literally ***drew*** all of us by hand. And Nathan Mansakahn took some amazing photos. Here are some of them:
 
+![poster](https://i.ibb.co/grf33pj/familyreunion2.png){:class="img-responsive"}
+![crowd_jacob](https://i.ibb.co/Pwwy2yg/crowd-jacob.jpg){:class="img-responsive"}
 ![bindu](https://i.ibb.co/Fsg1CKq/bindu-cute.jpg){:class="img-responsive"}
+![rene](https://i.ibb.co/1R7LCN7/RENO.jpg){:class="img-responsive"}
+![crowd_xander](https://i.ibb.co/5njKDmm/crowd-xander.jpg){:class="img-responsive"}
+![fullteam](https://i.ibb.co/HCCJPPP/team.jpg){:class="img-responsive"}
