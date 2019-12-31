@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: A Family Reunion for the Chicago Music Community
 ---
 
