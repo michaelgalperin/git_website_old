@@ -23,4 +23,4 @@ The musicians were:
 
 Becca Baruc made an incredible poster for the event, for which she literally ***drew*** all of us by hand. And Nathan Mansakahn took some amazing photos. Here are some of them:
 
-<img src="/assets/images/famreunion/bindu_cute.JPG" alt="poster" width="400"/>
+![bindu](/assets/images/famreunion/bindu_cute.JPG){:class="img-responsive"}
