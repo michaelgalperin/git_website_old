@@ -21,7 +21,7 @@ Family Reunion has grown from a house party in my basement to a full-fledged eve
 
 The musicians were:
 
-Becca Baruc made an incredible poster for the event, for which she literally ***drew*** all of us. By hand! And Nathan Mansakahn took some amazing photos. Here are some of them:
+Becca Baruc made an incredible poster for the event, for which she literally ***drew*** all of us by hand. And Nathan Mansakahn took some amazing photos. Here are some of them:
 
-
+![poster](/assets/images/famreunion/familyreunion2.tif)
 
