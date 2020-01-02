@@ -13,6 +13,8 @@ The data is special for another reason: it's one of the first widely available c
 
 Here is a link to the visualization: [https://bl.ocks.org/michaelgalperin/880866ec6a8027517c504ec171dfab1e](https://bl.ocks.org/michaelgalperin/raw/880866ec6a8027517c504ec171dfab1e/)
 
+<div id='graph'></div>
+
 Visualization to-dos:
 - Embed d3 into this jekyll post instead of linking to an external URL (lame).
 - Use repl `mix` to change point colors as they reclassify.
