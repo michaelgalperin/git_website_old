@@ -19,10 +19,10 @@ Learning 10 new songs, all by different composers, with less than a day of rehea
 ### Family Reunion, March 2018
 Family Reunion has grown from a house party in my basement to a full-fledged event, hosted at a venue (with posters!). The latest one was in March 2018 at the [Co-Prosperity Sphere](http://www.coprosperity.org/), an art gallery and community space in the Bridgeport neighborhood of Chicago. 
 
-Becca Baruc made an incredible poster for the event, for which she literally ***drew*** all of us by hand. And Nathan Mansakahn took some amazing photos. Here are some of them:
+[Becca Baruc](https://www.beccabaruc.com/) made an incredible poster for the event, for which she literally ***drew*** all of us by hand. And Nathan Mansakahn took some amazing photos. Here are some of them:
 
 ![poster](https://i.ibb.co/grf33pj/familyreunion2.png){:class="img-responsive"}
-![crowd_jacob](/assets/images/famreunion/crowd-jacob.jpg){:class="img-responsive"}
+![crowd_jacob](https://i.ibb.co/Pwwy2yg/crowd-jacob.jpg){:class="img-responsive"}
 ![bindu](https://i.ibb.co/Fsg1CKq/bindu-cute.jpg){:class="img-responsive"}
 ![hornrehearsal](https://i.ibb.co/Qd59pYp/horn-rehearsal.jpg){:class="img-responsive"}
 ![rene](https://i.ibb.co/1R7LCN7/RENO.jpg){:class="img-responsive"}
