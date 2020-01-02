@@ -23,7 +23,7 @@ Family Reunion has grown from a house party in my basement to a full-fledged eve
 
 ![poster](https://i.ibb.co/grf33pj/familyreunion2.png){:class="img-responsive"}
 ![crowd_jacob](https://i.ibb.co/Pwwy2yg/crowd-jacob.jpg){:class="img-responsive"}
-![crowd_jacob2](assets/images/famreunion/crowd-jacob.JPG){:class="img-responsive"}
+![crowd_jacob2](/assets/images/famreunion/crowd-jacob.JPG){:class="img-responsive"}
 ![bindu](https://i.ibb.co/Fsg1CKq/bindu-cute.jpg){:class="img-responsive"}
 ![hornrehearsal](https://i.ibb.co/Qd59pYp/horn-rehearsal.jpg){:class="img-responsive"}
 ![rene](https://i.ibb.co/1R7LCN7/RENO.jpg){:class="img-responsive"}
