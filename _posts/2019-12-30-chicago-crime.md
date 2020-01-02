@@ -3,20 +3,28 @@ layout: post
 title: Animating the Cook County Court System
 ---
 
-One of my research projects studies the effects of certain rule changes instituted in the Cook County State's Attorney's Office (SAO) by Kim Foxx, who was elected to the office over the incumbent Anita Alvarez in December 2016. 
+In December 2016, Kim Foxx was elected State's Attorney of Cook County, Illinois, the second-largest prosecutor's office in the country by caseload. 
 
-Using data newly released by Foxx's office, [previous data journalism](https://pudding.cool/2019/10/prosecutors/) has shown that the proportion of incoming cases prosecuted as felonies has fallen sharply under her leadership. One reason for this change is that under Foxx, the SAO doubled the monetary threshold for felony prosecution of retail theft, from the previous minimum of $500 to the current value of $1000. The data shows that as soon as Foxx took office, both the number of shoplifting cases brought to the SAO *and* the proportion of these cases approved fell sharply:
+Foxx ran as a reform candidate, vowing to reform the city's bond system, increase police accountability, and shift her office's resources away from prosecuting low-level crimes and towards more aggressive prosecution of violent crimes. After she took office, she also released over eight years of data, tracking every felony case in Cook County from arrest to sentencing.
+
+[Previous data journalism](https://pudding.cool/2019/10/prosecutors/) has used the data to show that Foxx's office pursues fewer felonies than her predecessor, Anita Alvarez. In some cases, this change reflects new rules instituted by Foxx's office. For example, immediately upon taking office, Foxx doubled the monetary threshold for felony prosecution of retail theft in Cook County. The data shows that the proportion of shoplifting cases approved as felonies fell sharply:
 
 ![timeseries](https://i.ibb.co/mzSz8xK/shoplifting-ratio.png){:class="img-responsive"}
 
-The data is special for another reason: it's one of the first widely available criminal justice datasets to follow cases over the entire life of the case, from arrest to sentencing. This is a big deal - public data on the criminal justice system [is notoriously spotty](https://www.theatlantic.com/politics/archive/2015/05/what-we-dont-know-about-mass-incarceration/394520/). The existing datasets usually only provide a snapshot of one component of the system, such as sentencing. But decisions made earlier in the criminal justice process, such as the charges filed, can dramatically affect sentencing outcomes at the end - for example, research has shown that [most of the racial disparity in federal criminal sentences stems from prosecutors' decisions to charge black defendants with harsher crimes](https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2413&context=articles), *not* solely from discrimination by judges.
+The data is special for another reason: it's one of the first widely available criminal justice datasets to follow cases over the entire life of the case, from arrest to sentencing. This is a big deal - public data on the criminal justice system [is notoriously spotty](https://www.theatlantic.com/politics/archive/2015/05/what-we-dont-know-about-mass-incarceration/394520/). 
 
-Here is a link to the visualization: [https://bl.ocks.org/michaelgalperin/880866ec6a8027517c504ec171dfab1e](https://bl.ocks.org/michaelgalperin/raw/880866ec6a8027517c504ec171dfab1e/)
+Existing datasets usually only provide a snapshot of one component of the system, such as sentencing. But decisions made earlier in the criminal justice process, such as the charges filed, can dramatically affect sentencing outcomes at the end - for example, [research](https://repository.law.umich.edu/cgi/viewcontent.cgi?article=2413&context=articles) has shown that [most of the racial disparity in federal criminal sentences stems from *prosecutors'* decisions to charge black defendants with harsher crimes, not solely from discrimination by judges.
+
+I used the data to visualize the evolution of one case outcome over a case's lifespan: the felony class of a case. The class of a felony, which affects minimum standards for punishment if a defendant is found guilty, is recorded *twice* in the data: once at "initiation", when a case is brought in to the State's Attorney's Office for Felony Review, and once at disposition, when a decision is reached. The process between these two points can take years, and can have huge consequences for defendants' lives. For example, [journalists](https://www.theatlantic.com/magazine/archive/2017/09/innocence-is-irrelevant/534171/) and [academics](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=7446&context=ylj) alike have argued that guilty pleas, the method of resolution of over 95 percent of cases, can threaten justice. The risk of losing a case that goes to trial can encourage innocent defendants to plea guilty to low-level offenses rather than expend the time, money, and risk required to argue against a more serious charge in court.
+
+The visualization shows that the felony class of a case is often downgraded over a case's life. It also gives an idea of the relative amount of time it takes to resolve cases of various classes (surprise: murders take the longest to resolve).
+
+Here is a link to the visualization: [https://bl.ocks.org/michaelgalperin/880866ec6a8027517c504ec171dfab1e](https://bl.ocks.org/michaelgalperin/880866ec6a8027517c504ec171dfab1e)
 
 <div id='graph'></div>
 
 Visualization to-dos:
-- Embed d3 into this jekyll post instead of linking to an external URL (lame).
+- Embed javascript into this jekyll post instead of linking to an external URL (lame).
 - Use repl `mix` to change point colors as they reclassify.
 - Add delineating line for misdemeanors in between Class 4 and Class A.
 - Make separate visualizations showing Class M felonies, Class X felonies, etc.
