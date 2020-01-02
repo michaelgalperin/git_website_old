@@ -19,7 +19,24 @@ Learning 10 new songs, all by different composers, with less than a day of rehea
 ### Family Reunion, March 2018
 Family Reunion has grown from a house party in my basement to a full-fledged event, hosted at a venue (with posters!). The latest one was in March 2018 at the [Co-Prosperity Sphere](http://www.coprosperity.org/), an art gallery and community space in the Bridgeport neighborhood of Chicago. 
 
-The glorious musicians of FR2018 were [Erica Rene](https://www.instagram.com/theericarene/), [Shawnee Dez](http://shawneedez.com/), [Jacob Slocum](https://www.newmusicusa.org/profile/jacob-slocum-music/), [Rene Cruz\*](https://linktr.ee/renocruzmusic), [Ivan Pyzow](http://www.pyzow.com/info), [Jeremy Jones\*](https://www.instagram.com/thebassmanjones/), [Terry Patrick Jr.\*](https://www.instagram.com/terrypatrickjr/), [Alfonzo Jones\*](https://www.instagram.com/alfonzojones_music/), [Michael Galperin](https://michaelgalperin.github.io/), [Himabindu Poroori](https://www.facebook.com/statematters/videos/what-you-need-to-know-about-an-arts-indicator-for-illinois-schools/298344447493750/), [Imani Rousselle&dagger;](https://www.imanirousselle.com/), [Colin Drozdoff](https://www.colindrozdoffmusic.com/), [Jackson Shepard&dagger;](https://www.instagram.com/jacksonshepard_music/), [Xander Beberman](https://www.facebook.com/halfstopsound/), [Walter Sanchez](https://www.instagram.com/walterplaysthebone/), [Atticus Lazenby](https://atticuslazenbymusic.com/), and [Kenneth Leftridge Jr.\*](https://www.instagram.com/kenzinho91/?hl=en).
+The glorious musicians of FR2018 were:
+* [Erica Rene](https://www.instagram.com/theericarene/)
+* [Shawnee Dez](http://shawneedez.com/)
+* [Jacob Slocum](https://www.newmusicusa.org/profile/jacob-slocum-music/)
+* [Rene Cruz\*](https://linktr.ee/renocruzmusic)
+* [Ivan Pyzow](http://www.pyzow.com/info)
+* [Jeremy Jones\*](https://www.instagram.com/thebassmanjones/)
+* [Terry Patrick Jr.\*](https://www.instagram.com/terrypatrickjr/)
+* [Alfonzo Jones\*](https://www.instagram.com/alfonzojones_music/)
+* [Michael Galperin](https://michaelgalperin.github.io/)
+* [Himabindu Poroori](https://www.facebook.com/statematters/videos/what-you-need-to-know-about-an-arts-indicator-for-illinois-schools/298344447493750/)
+* [Imani Rousselle&dagger;](https://www.imanirousselle.com/)
+* [Colin Drozdoff](https://www.colindrozdoffmusic.com/)
+* [Jackson Shepard&dagger;](https://www.instagram.com/jacksonshepard_music/)
+* [Xander Beberman](https://www.facebook.com/halfstopsound/)
+* [Walter Sanchez](https://www.instagram.com/walterplaysthebone/)
+* [Atticus Lazenby](https://atticuslazenbymusic.com/)
+* [Kenneth Leftridge Jr.\*](https://www.instagram.com/kenzinho91/?hl=en)
 
 \* of [LeftJones](https://www.leftjones.com/)
 &dagger; of [Human Bloom](https://humanbloom.bandcamp.com/)
