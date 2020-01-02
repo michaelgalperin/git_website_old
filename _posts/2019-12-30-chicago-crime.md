@@ -3,6 +3,10 @@ layout: post
 title: Animating the Cook County Court System
 ---
 
+There's a link at the bottom, but in case you don't want to read this whole thing, here's the visualization: [https://bl.ocks.org/michaelgalperin/880866ec6a8027517c504ec171dfab1e](https://bl.ocks.org/michaelgalperin/880866ec6a8027517c504ec171dfab1e)
+
+---
+
 In December 2016, Kim Foxx was elected State's Attorney of Cook County, Illinois, the second-largest prosecutor's office in the country by caseload. 
 
 Foxx ran as a reform candidate, vowing to reform the city's bond system, increase police accountability, and shift her office's resources away from prosecuting low-level crimes and towards more aggressive prosecution of violent crimes. After she took office, she also released over eight years of data, tracking every felony case in Cook County from arrest to sentencing.
