@@ -19,13 +19,18 @@ Learning 10 new songs, all by different composers, with less than a day of rehea
 ### Family Reunion, March 2018
 Family Reunion has grown from a house party in my basement to a full-fledged event, hosted at a venue (with posters!). The latest one was in March 2018 at the [Co-Prosperity Sphere](http://www.coprosperity.org/), an art gallery and community space in the Bridgeport neighborhood of Chicago. 
 
+The glorious musicians of FR2018 were [Erica Rene](https://www.instagram.com/theericarene/), [Shawnee Dez](http://shawneedez.com/), [Jacob Slocum](https://www.newmusicusa.org/profile/jacob-slocum-music/), [Rene Cruz\*](https://linktr.ee/renocruzmusic), [Ivan Pyzow](http://www.pyzow.com/info), [Jeremy Jones\*](https://www.instagram.com/thebassmanjones/), [Terry Patrick Jr.\*](https://www.instagram.com/terrypatrickjr/), [Alfonzo Jones\*](https://www.instagram.com/alfonzojones_music/), [Michael Galperin](https://michaelgalperin.github.io/), [Himabindu Poroori](https://www.facebook.com/statematters/videos/what-you-need-to-know-about-an-arts-indicator-for-illinois-schools/298344447493750/), [Imani Rousselle&dagger;](https://www.imanirousselle.com/), [Colin Drozdoff](https://www.colindrozdoffmusic.com/), [Jackson Shepard&dagger;](https://www.instagram.com/jacksonshepard_music/), [Xander Beberman](https://www.facebook.com/halfstopsound/), [Walter Sanchez](https://www.instagram.com/walterplaysthebone/), [Atticus Lazenby](https://atticuslazenbymusic.com/), and [Kenneth Leftridge Jr.\*](https://www.instagram.com/kenzinho91/?hl=en).
+
+\* of [LeftJones](https://www.leftjones.com/)
+&dagger; of [Human Bloom](https://humanbloom.bandcamp.com/)
+
 [Becca Baruc](https://www.beccabaruc.com/) made an incredible poster for the event, for which she literally ***drew*** all of us by hand. And Nathan Mansakahn took some amazing photos. Here are some of them:
 
-![poster](https://i.ibb.co/grf33pj/familyreunion2.png){:class="img-responsive"}
-![crowd_jacob](https://i.ibb.co/Pwwy2yg/crowd-jacob.jpg){:class="img-responsive"}
+![poster](/assets/images/famreunion/familyreunion2.png){:class="img-responsive"}
 ![crowd_jacob2](/assets/images/famreunion/crowd_jacob.JPG){:class="img-responsive"}
-![bindu](https://i.ibb.co/Fsg1CKq/bindu-cute.jpg){:class="img-responsive"}
-![hornrehearsal](https://i.ibb.co/Qd59pYp/horn-rehearsal.jpg){:class="img-responsive"}
-![rene](https://i.ibb.co/1R7LCN7/RENO.jpg){:class="img-responsive"}
-![crowd_xander](https://i.ibb.co/5njKDmm/crowd-xander.jpg){:class="img-responsive"}
-![fullteam](https://i.ibb.co/HCCJPPP/team.jpg){:class="img-responsive"}
+![bindu](/assets/images/famreunion/bindu_cute.JPG){:class="img-responsive"}
+![hornrehearsal](/assets/images/famreunion/horn_rehearsal.jpg){:class="img-responsive"}
+![jacobsolo](/assets/images/famreunion/jacobsolo_wjackson.JPG){:class="img-responsive"}
+![rene](/assets/images/famreunion/RENO.jpg){:class="img-responsive"}
+![crowd_xander](/assets/images/famreunion/crowd_xander.jpg){:class="img-responsive"}
+![fullteam](/assets/images/famreunion/team.JPG){:class="img-responsive"}
