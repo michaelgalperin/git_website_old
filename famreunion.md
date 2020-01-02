@@ -38,7 +38,7 @@ The glorious musicians of FR2018 were:
 * [Atticus Lazenby](https://atticuslazenbymusic.com/)
 * [Kenneth Leftridge Jr.\*](https://www.instagram.com/kenzinho91/?hl=en)
 
-\* of [LeftJones](https://www.leftjones.com/)
+\* of [LeftJones](https://www.leftjones.com/); 
 &dagger; of [Human Bloom](https://humanbloom.bandcamp.com/)
 
 [Becca Baruc](https://www.beccabaruc.com/) made an incredible poster for the event, for which she literally ***drew*** all of us by hand. And Nathan Mansakahn took some amazing photos. Here are some of them:
