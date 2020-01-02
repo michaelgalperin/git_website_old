@@ -45,7 +45,7 @@ The glorious musicians of FR2018 were:
 
 ![poster](/assets/images/famreunion/familyreunion2.png){:class="img-responsive"}
 ![crowd_jacob2](/assets/images/famreunion/crowd_jacob.JPG){:class="img-responsive"}
-![bindu](/assets/images/famreunion/bindu_cute.JPG){:class="img-responsive"}
+![bindu](https://i.ibb.co/Fsg1CKq/bindu-cute.jpg){:class="img-responsive"}
 ![hornrehearsal](/assets/images/famreunion/horn_rehearsal.jpg){:class="img-responsive"}
 ![jacobsolo](/assets/images/famreunion/jacobsolo_wjackson.JPG){:class="img-responsive"}
 ![rene](/assets/images/famreunion/RENO.jpg){:class="img-responsive"}
