@@ -25,7 +25,6 @@ Here is a link to the visualization: [https://bl.ocks.org/michaelgalperin/880866
 
 Visualization to-dos:
 - Embed javascript into this jekyll post instead of linking to an external URL (lame).
-- Use repl `mix` to change point colors as they reclassify.
+- Use repl `mix` to change point colors as they reclassify (although this makes felonies of different origins indistinguishable at disposition).
 - Add delineating line for misdemeanors in between Class 4 and Class A.
-- Make separate visualizations showing Class M felonies, Class X felonies, etc.
-- Solve the problem of how to pass all parameters to repl in a single `vec4` (see [this](https://bl.ocks.org/1wheel/9b3bcc4ce8266913c0a0ddd4120a41de) post by Adam Pearce), so that all crime categories moving can be rendered at once. Although, I'm not sure that this would make it more understandable than showing one class moving across at a time.
+- Solve the problem of how to pass all parameters to repl in a single `vec4` (see [this](https://bl.ocks.org/1wheel/9b3bcc4ce8266913c0a0ddd4120a41de) post by Adam Pearce), so that all crime categories moving can be rendered at once instead of just a few of them. Although, I'm not sure that this would make it more understandable than showing one class moving across at a time.
