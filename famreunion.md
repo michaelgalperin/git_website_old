@@ -44,10 +44,10 @@ The glorious musicians of FR2018 were:
 [Becca Baruc](https://www.beccabaruc.com/) made an incredible poster for the event, for which she literally ***drew*** all of us by hand. And Nathan Mansakahn took some amazing photos. Here are some of them:
 
 ![poster](/assets/images/famreunion/familyreunion2.png){:class="img-responsive"}
-![crowd_jacob2](/assets/images/famreunion/crowd_jacob.JPG){:class="img-responsive"}
-![bindu](https://i.ibb.co/Fsg1CKq/bindu-cute.jpg){:class="img-responsive"}
+![crowd_jacob2](/assets/images/famreunion/crowd_jacob.jpg){:class="img-responsive"}
+![bindu](assets/images/famreunion/bindu_cute.jpg){:class="img-responsive"}
 ![hornrehearsal](/assets/images/famreunion/horn_rehearsal.jpg){:class="img-responsive"}
-![jacobsolo](/assets/images/famreunion/jacobsolo_wjackson.JPG){:class="img-responsive"}
-![rene](/assets/images/famreunion/RENO.jpg){:class="img-responsive"}
+![jacobsolo](/assets/images/famreunion/jacobsolo_wjackson.jpg){:class="img-responsive"}
+![rene](/assets/images/famreunion/reno.jpg){:class="img-responsive"}
 ![crowd_xander](/assets/images/famreunion/crowd_xander.jpg){:class="img-responsive"}
-![fullteam](/assets/images/famreunion/team.JPG){:class="img-responsive"}
+![fullteam](/assets/images/famreunion/team.jpg){:class="img-responsive"}
