@@ -16,10 +16,10 @@ At the same time, while it's easy to meet people, it can be harder to play music
 Learning 10 new songs, all by different composers, with less than a day of rehearsal, and then immediately playing them live, is a completely crazy, all-consuming, terrifying undertaking. There's no escape route, since people will come to see the show no matter how good or bad you sound. This is also what makes the shows exciting and so great for musicians - because the arrangements are fresh and the songs haven't been played before, the rehearsals flow with ideas and transform the songs. And by introducing musicians who haven't played together before, each event spawns further collaborations that go beyond a single show.
 
 
-### Family Reunion, March 2018
-Family Reunion has grown from a house party in my basement to a full-fledged event, hosted at a venue (with posters!). The latest one was in March 2018 at the [Co-Prosperity Sphere](http://www.coprosperity.org/), an art gallery and community space in the Bridgeport neighborhood of Chicago. 
+### Family Reunion, March 2019
+Family Reunion has grown from a house party in my basement to a full-fledged event, hosted at a venue (with posters!). The latest one was in March 2019 at the [Co-Prosperity Sphere](http://www.coprosperity.org/), an art gallery and community space in the Bridgeport neighborhood of Chicago. 
 
-The glorious musicians of FR2018 were:
+The glorious musicians of FR2019 were:
 * [Erica Rene](https://www.instagram.com/theericarene/)
 * [Shawnee Dez](http://shawneedez.com/)
 * [Jacob Slocum](https://www.newmusicusa.org/profile/jacob-slocum-music/)
