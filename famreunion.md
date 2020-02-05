@@ -3,6 +3,8 @@ layout: page
 title: Family Reunion
 ---
 
+![poster](/assets/images/famreunion/familyreunion2.png){:class="img-responsive"}
+
 If you're a musician in Chicago, you get to know a lot of other musicians. Everyone runs into each other at jams, comes to each other's shows, shares each other's new releases when they come out. The community is enormous, and it's held together by love and support - everyone is just *so excited* to see each other succeed.
 
 At the same time, while it's easy to meet people, it can be harder to play music with them. The nitty-gritty of putting together a band - booking shows, promoting them, recording music - all takes a huge amount of work and commitment. My friends and I always felt that there were so many talented musicians who we knew and admired, but with whom we didn't ever have the chance to collaborate because everyone had so little time.
@@ -43,7 +45,6 @@ The glorious musicians of FR2019 were:
 
 [Becca Baruc](https://www.beccabaruc.com/) made an incredible poster for the event, for which she literally ***drew*** all of us by hand. And Nathan Mansakahn took some amazing photos. Here are some of them:
 
-![poster](/assets/images/famreunion/familyreunion2.png){:class="img-responsive"}
 ![crowd_jacob2](/assets/images/famreunion/crowd_jacob.JPG){:class="img-responsive"}
 ![bindu](assets/images/famreunion/bindu_cute.JPG){:class="img-responsive"}
 ![hornrehearsal](/assets/images/famreunion/horn_rehearsal.jpg){:class="img-responsive"}
